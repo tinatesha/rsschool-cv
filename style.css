@@ -28,7 +28,7 @@ body {
 }
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 .nav-link {
@@ -39,7 +39,7 @@ html {
 
 .section-item a {
     color: #bcb9b4;
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.5s;
 }
 
