@@ -5,7 +5,7 @@ body {
     line-height: 1.5;
     color: #181714;
     min-height: 100vh;
-    margin: 0; padding: 0;
+    margin: 10; padding: 10;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -98,7 +98,6 @@ html {
 .rss {
     width: 130px;
     height: 45px;
-    background-image: url("./assets/img/rss.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
